@@ -1,0 +1,30 @@
+h1.clase3 {
+    color: red;
+    font-family: Arial;
+    font-size: large;
+    font-style: italic;
+    }
+h1::first-letter{
+    font-size:200%;
+}
+h1,h2,p, .clase, .clase2, .clase3, .clase4{
+    font-weight: bold;
+}
+    p.intro {
+    color: gray;
+    font-family: Verdana;
+    font-size: medium;
+    }
+    .clase{
+        color: gray;
+    font-family: Verdana;
+    font-size: medium; 
+    }
+    p.clase2{
+        font-style: italic;
+    }
+    p.clase4{
+    color: greenyellow;
+    font-family: Verdana;
+    font-size: medium;
+    }
